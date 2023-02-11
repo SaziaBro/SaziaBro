@@ -4,13 +4,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
-<p align="left"> <a href="https://twitter.com/saziabro" target="blank"><img src="https://img.shields.io/twitter/follow/saziabro?logo=twitter&style=for-the-badge" alt="saziabro" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working at HCL Tech<br>🌱 I’m currently learning DevOps<br>📫 How to reach me sasindu.rajapaksha@hotmail.com<br>⚡ Fun fact I am Funny
+🌱 I’m currently learning DevOps<br>📫 How to reach me sasindu.rajapaksha@hotmail.com<br>⚡ Fun fact I am Funny
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/700696315872542751) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Saziabro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saziabro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasindu-rajapaksha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Saziabro) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/700696315872542751) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Saziabro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saziabro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasindu-rajapaksha)
+<p align="left"> <a href="https://twitter.com/saziabro" target="blank"><img src="https://img.shields.io/twitter/follow/saziabro?logo=twitter&style=for-the-badge" alt="saziabro" /></a> </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saziabro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
