@@ -1,22 +1,24 @@
 <img align="center" alt="computing" height="275" width = "1000" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
 
-<h1 align="center">Hi there, I'm Sasindu</h1>
+<h1 align="center">Hello World, I'm Sasindu</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 
 # 💫 About Me:
-🌱 I’m currently learning DevOps<br>📫 How to reach me sasindu.rajapaksha@hotmail.com<br>⚡ Fun fact I am Funny
+📫 How to reach me sasindu.rajapaksha@hotmail.com<br> 🌍  I'm based in Messina, Italy<br>⚡ Fun fact I am Funny
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/700696315872542751) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Saziabro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saziabro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasindu-rajapaksha)
 <p align="left"> <a href="https://twitter.com/saziabro" target="blank"><img src="https://img.shields.io/twitter/follow/saziabro?logo=twitter&style=for-the-badge" alt="saziabro" /></a> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saziabro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Saziabro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saziabro&theme=dark&hide_border=false)
+## Stats:
 
+<a href="http://www.github.com/saziabro"><img src="https://github-readme-stats.vercel.app/api?username=saziabro&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saziabro's GitHub stats" /></a>
+
+<a href="http://www.github.com/saziabro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saziabro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/saziabro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saziabro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Saziabro&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
